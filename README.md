@@ -10,9 +10,6 @@ Create a Q & A application that has the following functionality.
 2. a user can answer a question
 Real-time is preferred.
 
-Don't worry about having actual users, when you ask/answer a question,
-just have an extra field where you can type whatever name you want.
-
 You can write this application in whatever languages you prefer.
 For backend developers: We like Python, Erlang (but we really don't mind if you write it in other languages)
 For iOS and Android developers: Do you even have another choice?
